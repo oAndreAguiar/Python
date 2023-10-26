@@ -1,3 +1,15 @@
+# 1) Crie uma versão do código de exemplo SISTEMA DE CONTROLE DE PRODUTOS que receba os dados preenchendo os vetores e ainda salve as informações em arquivo conforme apresentado na aula 05. 
+# O arquivo deve ser aberto em modo leitura ('r') ou escrita ('a'), de acordo com a operação.
+# Pesquise no Google sobre "manipulação de arquivos em Python".
+# Uma opção para ler os dados é utilizar a função readlines.
+# Observação:
+# Salve em uma linha o nome do produto e o preço. Exemplo:
+# PROD1 5.99
+# PROD2 2.50
+# PROD3 19.80 
+# Toda vez que o programa for executado, os dados no arquivo devem ser lidos e copiados para o vetor.
+
+
 produtos = ['a']
 comando = 0
 
