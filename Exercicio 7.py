@@ -1,3 +1,6 @@
+#Crie um script que peca para o usuário inserir 10 números inteiros. Armazene estes números em um vetor.
+#Depois, armazene em um dicionário o dobro do valor de cada posição no vetor. Use o índice do vetor como chave para o dicionário.  
+
 valor = []
 
 for i in range(2):
